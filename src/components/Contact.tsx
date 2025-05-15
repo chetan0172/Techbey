@@ -75,7 +75,7 @@ const Contact: React.FC = () => {
     {
       icon: <MapPin className="h-6 w-6 text-blue-600" />,
       title: "Office",
-      content: "Mumbai, MH",
+      content: "Mumbai, IN",
       link: "https://maps.google.com"
     }
   ];
