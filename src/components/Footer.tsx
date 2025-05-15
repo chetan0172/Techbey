@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
   const contactInfo = [
     { icon: <Mail className="h-5 w-5" />, title: "Email", content: "contact@techbeyo.com", href: "mailto:contact@techbeyo.com" },
     { icon: <Phone className="h-5 w-5" />, title: "Phone", content: "+919988230172", href: "tel:+919988230172" },
-    { icon: <MapPin className="h-5 w-5" />, title: "Address", content: "Mumbai, MH", href: "https://maps.google.com" },
+    { icon: <MapPin className="h-5 w-5" />, title: "Address", content: "Mumbai, IN", href: "https://maps.google.com" },
     { icon: <Clock className="h-5 w-5" />, title: "Hours", content: "Mon-Sat: 24*7", href: "#" },
     { icon: <Globe className="h-5 w-5" />, title: "Global", content: "Serving Worldwide", href: "#" }
   ];
